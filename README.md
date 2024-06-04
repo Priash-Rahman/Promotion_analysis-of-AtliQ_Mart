@@ -64,6 +64,7 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
    sankranti offers more BOGOF promo one of the reasons for its high ISU %  ;
 - Based on IR% Diwali is Successful and based on ISU% Sankranti is heavy Successful.
 - Sankranti is successful when it comes to balance between IR% and ISU% .
+- Some products couldn't perform discount promo in diwali   , leveraging that sankranti offers BOGOF offer  for  stock clearance oppotunity is one of the reaosons of poor ISU% of Diwali .
       
 
 ## Business request 2 : What are the top 5 products that kept balance between IR% and ISU% ?
