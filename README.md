@@ -4,7 +4,7 @@
 
 #  Retail sales promotion analysis.
 
-## Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWU1MTNkY2MtMjJkMS00ZDk5LWI5YzktYTI2OTAxYTY0MzZlIiwidCI6Ijg2OTY0MTdiLTM1NDgtNDFjNC04NTU3LWE0ZWRjN2U4NTQ4MSIsImMiOjEwfQ%3D%3D
+## Dashboard Link : [https://app.powerbi.com/view?r=eyJrIjoiMWU1MTNkY2MtMjJkMS00ZDk5LWI5YzktYTI2OTAxYTY0MzZlIiwidCI6Ijg2OTY0MTdiLTM1NDgtNDFjNC04NTU3LWE0ZWRjN2U4NTQ4MSIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiMDYxNTdkMzQtZjY3OS00NWY3LTkzYzItMDE4ODJmMzEwMDE3IiwidCI6Ijg2OTY0MTdiLTM1NDgtNDFjNC04NTU3LWE0ZWRjN2U4NTQ4MSIsImMiOjEwfQ%3D%3D)
 
 ## Problem Statement
 
